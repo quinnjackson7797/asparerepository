@@ -10,7 +10,7 @@
 - ⚡ Fun fact: ...
 
 ![Map finnish](https://user-images.githubusercontent.com/126907394/224383184-827ce5e8-c3ab-481f-b7d3-30174d025e70.jpg)
-[Deez Nuts](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
 
 
