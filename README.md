@@ -10,6 +10,7 @@
 - ⚡ Fun fact: ...
 
 ![Map finnish](https://user-images.githubusercontent.com/126907394/224383184-827ce5e8-c3ab-481f-b7d3-30174d025e70.jpg)
+$ git rebase
 [![](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)](VeteranPageTest.md)
 
 
